@@ -1,9 +1,9 @@
 # Solar_Irradiance_Prediction
-Overview
+## Overview
 
 This project aims to predict solar irradiance using machine learning models like MLP (Multi-Layer Perceptron) and XGBoost. The goal is to enhance energy planning, improve solar panel efficiency, and support sustainable energy initiatives by forecasting solar power availability.
 
-Dataset
+## Dataset
 
 The dataset contains features such as:
 
@@ -21,7 +21,7 @@ Time-based data (e.g., hour, day, month)
 
 These features were chosen for their correlation with solar irradiance levels.
 
-Features
+## Features
 
 Data Cleaning and Preprocessing: Handling missing values, outlier detection, and feature scaling.
 
